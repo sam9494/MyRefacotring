@@ -1,0 +1,10 @@
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyRefacotring\MyRefactoring\MyRefactoring\bin\Debug\MyRefactoring.exe.config
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyRefacotring\MyRefactoring\MyRefactoring\bin\Debug\MyRefactoring.exe
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyRefacotring\MyRefactoring\MyRefactoring\bin\Debug\MyRefactoring.pdb
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyRefacotring\MyRefactoring\MyRefactoring\bin\Debug\nunit.framework.dll
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyRefacotring\MyRefactoring\MyRefactoring\bin\Debug\nunit.framework.xml
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyRefacotring\MyRefactoring\MyRefactoring\obj\Debug\MyRefactoring.csprojAssemblyReference.cache
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyRefacotring\MyRefactoring\MyRefactoring\obj\Debug\MyRefactoring.csproj.CoreCompileInputs.cache
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyRefacotring\MyRefactoring\MyRefactoring\obj\Debug\MyRefactoring.csproj.CopyComplete
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyRefacotring\MyRefactoring\MyRefactoring\obj\Debug\MyRefactoring.exe
+C:\Users\sam.chong62\Desktop\My Learn\Git\MyRefacotring\MyRefactoring\MyRefactoring\obj\Debug\MyRefactoring.pdb
