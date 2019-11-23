@@ -9,8 +9,8 @@ namespace MyRefactoring
         public void should_call_old_method()
         {
             var changeMethod = new ChangeMethod();
-            var expert= "This is Old Method";
-            var actual= changeMethod.OldMethod();
+            var expert= "This is New Method";
+            var actual= changeMethod.NewMethod();
             Assert.AreEqual(expert,actual);
         }
 
