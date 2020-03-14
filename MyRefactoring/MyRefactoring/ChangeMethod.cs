@@ -4,13 +4,12 @@ namespace MyRefactoring
 {
     public interface IChangeMethod
     {
-        string OldMethod();
         string NewMethod();
     }
 
     public class ChangeMethod : IChangeMethod
     {
-        public string OldMethod()
+        public static string OldMethod()
         {
             return "This is Old Method";
         }
