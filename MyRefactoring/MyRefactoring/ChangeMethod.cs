@@ -11,7 +11,8 @@ namespace MyRefactoring
     {
         public static string OldMethod()
         {
-            return "This is Old Method";
+            //return "This is Old Method";
+            return null;
         }
 
         public string NewMethod()
